@@ -56,7 +56,7 @@ public class NumerosRomanos {
     }*/
 
     //Refactorizacion final
-    public String convertirARomano(int natural) {
+/*    public String convertirARomano(int natural) {
         if(natural == 4)
             return "IV";
         if(natural <= 3)
@@ -68,6 +68,6 @@ public class NumerosRomanos {
         for(int i = 0; i < natural%5; i++)
             principio += "I";
         return principio;
-    }
+    }*/
 
 }
